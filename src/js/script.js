@@ -19,7 +19,4 @@ for (let i = 0; i < 2; i++) {
     appData.expenses[a] = b;
 }
 
-appData.expenses.a1 = a2;
-appData.expenses.a3 = a4;
-
 alert(appData.budget / 30);
